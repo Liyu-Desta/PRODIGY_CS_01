@@ -9,7 +9,7 @@ To run this code, follow these steps:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/Liyu-Desta/PRODIGY_CS_01.git
-2, Open the cloned repository in Visual Studio Code.
+2, ** Open the cloned repository in Visual Studio Code.**
 3, Install python 
     - Ensure you have Python installed on your system. You can download it from the official Python website.
 4, Install Python Extensions for Visual Studio Code
