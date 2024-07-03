@@ -17,13 +17,6 @@ To run this code, follow these steps:
     Open the caesar_cipher.py file in the editor.
     Press F5 or click the Run button in the top-right corner of the editor.
 6, Follow the prompts in the terminal to provide input for encryption or decryption as required by the program.
-7, Example Usage
-    What do you want to do with the text?
-    1. Encrypt
-    2. Decrypt
-    Provide your choice: 1
-    Provide your plain text please: hello
-    Provide your shift value please: 3
-    Encrypted text: khoor
+
 Thank you
 Happy Coding!
